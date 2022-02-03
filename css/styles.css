@@ -24,7 +24,7 @@ ul {
   .home h1{
       text-align: center;
       font-size: 100px;
-      color: yellow;
+      color: red;
   }
   .home h2{
       text-align: center;
@@ -32,7 +32,7 @@ ul {
       color: green;
   }
   body{
-      background-image: url("https://bit.ly/34vFX7w");
+      background-color: yellow;
       height: 600px;
       background-repeat: no-repeat;
       background-size: cover;
