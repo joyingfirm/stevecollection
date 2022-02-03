@@ -32,7 +32,7 @@ ul {
       color: green;
   }
   body{
-      background-image: url(/images/shirt1.png);
+      background-image: url('/images/shirt1.png');
       height: 600px;
       background-repeat: no-repeat;
       background-size: cover;
